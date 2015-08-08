@@ -1,0 +1,6 @@
+require_relative 'lib/config.rb'
+require_relative 'lib/auth.rb'
+require_relative 'lib/controllers.rb'
+require_relative 'lib/model.rb'
+require_relative 'lib/router.rb'
+require_relative 'lib/view.rb'
